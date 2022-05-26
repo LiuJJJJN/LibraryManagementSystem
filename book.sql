@@ -11,7 +11,7 @@
  Target Server Version : 80027
  File Encoding         : 65001
 
- Date: 10/04/2022 21:03:48
+ Date: 26/05/2022 17:14:37
 */
 
 SET NAMES utf8mb4;
@@ -67,6 +67,7 @@ CREATE TABLE `user`  (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
+INSERT INTO `user` VALUES (20, 'user1', '24c9e15e52afc47c225b757e7bee1f9d', 'mike@163.com', '12233334444', '密码 user1');
 
 -- ----------------------------
 -- Table structure for yx_books
@@ -81,7 +82,7 @@ CREATE TABLE `yx_books`  (
   `total` int NULL DEFAULT NULL,
   `leave_number` int NULL DEFAULT NULL,
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 41 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci ROW_FORMAT = Dynamic;
+) ENGINE = InnoDB AUTO_INCREMENT = 42 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Records of yx_books

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/add.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin_login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/count.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/del.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/list.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly_center.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly_check.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly_left.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly_pwd.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly_right.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly_top.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/select.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/verify.php" charset="UTF-8" />
+  </component>
+</project>
