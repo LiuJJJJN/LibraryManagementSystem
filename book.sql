@@ -11,7 +11,7 @@
  Target Server Version : 80027
  File Encoding         : 65001
 
- Date: 26/05/2022 17:14:37
+ Date: 26/05/2022 18:01:53
 */
 
 SET NAMES utf8mb4;
@@ -76,7 +76,7 @@ DROP TABLE IF EXISTS `yx_books`;
 CREATE TABLE `yx_books`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(20) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
-  `price` decimal(4, 2) NOT NULL,
+  `price` decimal(8, 2) NOT NULL,
   `uploadtime` datetime NOT NULL,
   `type` varchar(10) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
   `total` int NULL DEFAULT NULL,
